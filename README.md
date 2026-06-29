@@ -60,7 +60,7 @@ _'~' next to to-do contents = unfinished_
     - plus other things that come with chromium (android desktop)
 ## Firefox-based browsers:
 ### SmartCookieWeb-Preview:
-#### Active Updates: ❓
+#### Active Updates: ❌
 #### Fork: [Nira browser (alpha)](#Nira-browser-(alpha:))
 #### Link: https://github.com/CookieJarApps/SmartCookieWeb-Preview/forks
 #### Description: Redesign of SmartCookieWeb using GeckoView

@@ -36,7 +36,7 @@ _'~' next to to-do contents = unfinished_
 
 **fun fact:** Uazo worked on bromite, before bromite was archived.
 ### Helium: 
-#### Active Updates: ❓
+#### Active Updates: ✅
 #### Link: https://github.com/jqssun/android-helium-browser
 #### Description: Private, Secure, with webextensions support
 #### Information:

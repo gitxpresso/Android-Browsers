@@ -22,7 +22,7 @@ _'~' next to to-do contents = unfinished_
 ## Chromium-based browsers:
 **NOTE:** Not all extensions will behave or work as expected from any chromium android forks with extension support.
 ### Cromite (maintained fork of bromite):
-#### Active Updates: ✅
+#### Active Updates: ❓
 #### Link: https://github.com/uazo/cromite
 #### Description: Take back your browser!
 #### New Release regularly?: **Yes**
